@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "Hiep Le",
+    "label": "Junior Full-Stack Data Engineer",
+    "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAR-AAAAJDRiOTliN2U3LTc0M2QtNGFmZS1hZDUzLWU1MzlhNDlmZDk3NQ.jpg",
+    "email": "lenguyenhaohiep@gmail.com",
+    "phone": "+33 6 64 84 27 32",
+    "summary": "",
+    "location": {
+      "address": "212 Rue de Tolbiac",
+      "postalCode": "75013",
+      "city": "Paris",
+      "countryCode": "France",
+      "region": "Ile-de-France"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "url": "https://fr.linkedin.com/in/hiep-le-20450162"
+    }]
+  },
+  "work": [{
+    "company": "Equancy",
+    "position": "Intern, Data Engineer",
+    "website": "http://equancy.fr",
+    "startDate": "2016-02-29",
+    "endDate": "2016-09-02",
+    "summary": "End-of-study internship",
+    "highlights": [
+		"Participated in data pipelines processing projects with Luigi, Python and Spark",
+		"Deployed projects with Docker",
+		"Developed an real-time system with Kafka, Spark and Cassandra"
+    ]
+  },
+  {
+    "company": "University of Information Technology",
+    "position": "Research Engineer",
+    "website": "http://uit.edu.vn",
+    "startDate": "2013-06-01",
+    "endDate": "2013-11-30",
+    "summary": "Part Time Job as a Research Engineer",
+    "highlights": [
+		"Studied and developed recommender systems algorithms and applied in an e-learning website which suggests exercises for online learners",
+		"Programmed algorithms (Java) and a part of the website (PHP)"
+	]
+  },
+  {
+    "company": "TMA Solutions",
+    "position": "Intern, Software Engineer",
+    "website": "http://tmasolutions.com",
+    "startDate": "2012-03-01",
+    "endDate": "2012-05-30",
+    "summary": "End-of-study internship",
+    "highlights": [
+		"Studied and developed an application in C# which automatically crawls the real estate data from the Internet"    
+	]
+  }
+],
+  "education": [{
+    "institution": "Télécom ParisTech, France",
+    "area": "Computer Science",
+    "studyType": "Master Program (Formation d'ingénieur)",
+    "startDate": "2014-09-01",
+    "endDate": "2016-09-01"
+  },
+  {
+    "institution": "John von Neumann Institute, Vietnam",
+    "area": "Information and Communication Technology",
+    "studyType": "Master Program",
+    "startDate": "2014-07-01",
+    "endDate": "2013-09-01"  
+},
+  {
+    "institution": "University of Information Technology, Vietnam",
+    "area": "Information Systems",
+    "studyType": "Bachelor Program",
+    "startDate": "2013-05-01",
+    "endDate": "2008-10-01"
+  }
+
+  ],
+  "awards": [{
+    "title": "Eiffel scholarship",
+    "date": "2014-07-13",
+    "awarder": "Campus France",
+    "summary": "French government scholarship for foreign students"
+  }],
+
+  "publications": [{
+    "name": "Open Digital Forms",
+    "publisher": "Hiep Le, Thomas Rebele, Fabian Suchanek",
+    "releaseDate": "2016",
+    "website": "https://github.com/lenguyenhaohiep/formless3",
+    "summary": "A free, lightweight and secure open format that can replace the paper forms"
+  },
+  {
+    "name": "StudyAdvisor: A Context-Aware Recommendation Application in e-Learning Environment",
+    "publisher": "Phung Do, Hiep Le, Vu Thanh Nguyen, Tran Nam Dung",
+    "releaseDate": "2013",
+    "website": "http://link.springer.com/chapter/10.1007%2F978-3-319-05503-9_12",
+    "summary": "An application of recommender systems in e-Learning"
+  },
+  {
+    "name": "A Context-Aware Collaborative Filtering Algorithm through Identifying Similar Preference Trends in Different Contextual Information",
+    "publisher": "Phung Do, Hiep Le, Vu Thanh Nguyen, Tran Nam Dung",
+    "releaseDate": "2013",
+    "website": "http://link.springer.com/chapter/10.1007%2F978-3-642-41674-3_49#page-1",
+    "summary": "A new algorithm of context-aware recommender systems"
+  }],
+
+  "skills": [{
+    "name": "Programming",
+    "level": "",
+    "keywords": [
+      "Java",
+      "Python",
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Web Development",
+    "level": "",
+    "keywords": [
+      "AngularJS",
+      "jQuery",
+      "Django",
+      "CodeIgniter-PHP"
+    ]
+  },
+  {
+    "name": "Big Data",
+    "level": "",
+    "keywords": [
+      "Spark",
+      "Spark Streaming",
+      "Kafka",
+      "Data pipelines processing (Luigi)",
+      "Cassandra",
+      "Lambda, Kappa Architectures"
+    ]
+  }
+  ,
+  {
+    "name": "Databases",
+    "level": "",
+    "keywords": [
+      "MySQL",
+      "PostgreSQL"
+    ]
+  }
+  ,
+  {
+    "name": "Miscellaneous",
+    "level": "",
+    "keywords": [
+      "Recommender Systems",
+      "Semantic web RDFa"
+    ]
+  }
+  ,
+  {
+    "name": "Tools",
+    "level": "",
+    "keywords": [
+      "Git", "Docker", "AWS", "Latex"
+    ]
+  }
+  ],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Working Proficiency"
+    }
+    ,
+    {
+      "language": "French",
+      "fluency": "Working Proficiency"
+    }
+  ],
+
+  "interests": [
+  {"name":  "Cooking"},
+  {"name":  "Music"},
+  {"name":  "Traveling"},
+  {"name":  "Swimming"}]
+}
